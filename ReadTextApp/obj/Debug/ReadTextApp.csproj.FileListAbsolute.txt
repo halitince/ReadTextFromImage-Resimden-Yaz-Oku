@@ -1,0 +1,7 @@
+D:\ReadTextFromImage\ReadTextApp\ReadTextApp\bin\Debug\ReadTextApp.exe.config
+D:\ReadTextFromImage\ReadTextApp\ReadTextApp\bin\Debug\ReadTextApp.exe
+D:\ReadTextFromImage\ReadTextApp\ReadTextApp\bin\Debug\ReadTextApp.pdb
+D:\ReadTextFromImage\ReadTextApp\ReadTextApp\obj\Debug\ReadTextApp.csprojAssemblyReference.cache
+D:\ReadTextFromImage\ReadTextApp\ReadTextApp\obj\Debug\ReadTextApp.csproj.CoreCompileInputs.cache
+D:\ReadTextFromImage\ReadTextApp\ReadTextApp\obj\Debug\ReadTextApp.exe
+D:\ReadTextFromImage\ReadTextApp\ReadTextApp\obj\Debug\ReadTextApp.pdb
